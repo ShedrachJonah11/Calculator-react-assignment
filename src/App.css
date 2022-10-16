@@ -21,7 +21,7 @@ body {
   grid-template-rows: minmax(7rem, auto) repeat(5, 6rem);
 }
 
-.calculator-grid > buuton {
+.calculator-grid > button {
   cursor: pointer;
   font-size: 2rem;
   border: 1px solid #fff;
